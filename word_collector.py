@@ -1,3 +1,6 @@
+#!/usr/bin/env python3.8.3
+# -*- coding: utf-8 -*-
+
 import feedparser
 
 sanat = ""
